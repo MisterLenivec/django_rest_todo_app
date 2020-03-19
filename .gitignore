@@ -1,4 +1,5 @@
 *.pyc
+/todo_env/
 
 ### Python template
 # Byte-compiled / optimized / DLL files
